@@ -1,0 +1,8 @@
+# Cow-Infomation
+
+Name ,  Owner ,
+cow1, Pheello ,
+cow2, Themba ,
+cow3, Mxolisi,
+cow4, Neo ,
+cow5, Mpho 
