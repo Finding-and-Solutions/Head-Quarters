@@ -1,8 +1,8 @@
 # Cow-Infomation
 
-Name ,  Owner ,
-cow1, Pheello ,
-cow2, Themba ,
-cow3, Mxolisi,
-cow4, Neo ,
-cow5, Mpho 
+Name ,  Owner , Contacts, 
+cow1 , Pheello , 078 556 6698 ,
+cow2 , Themba ,  077 778 9987 ,
+cow3 , Mxolisi,  057 889 9987 ,
+cow4 , Neo ,    035 6654 8879 ,
+cow5 , Mpho ,   069 998 7782
